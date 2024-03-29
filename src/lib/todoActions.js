@@ -1,4 +1,4 @@
-import { TodosStore } from '../stores/TodoStore';
+import { TodosStore } from '../stores/todoStore';
 import { Todo } from '$lib/models/Todo';
 
 /**
